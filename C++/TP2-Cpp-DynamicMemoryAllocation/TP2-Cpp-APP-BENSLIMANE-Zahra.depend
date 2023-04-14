@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1645221839 source:c:\users\zahra\documents\03- isi sorbonne université\c++\tp2-cpp-app-benslimane-zahra\tp2-cpp-app-benslimane-zahra\tp2ex1.cpp
+	<iostream>
+	<cstring>
+	"piledechar.h"
+
+1645222167 c:\users\zahra\documents\03- isi sorbonne université\c++\tp2-cpp-app-benslimane-zahra\tp2-cpp-app-benslimane-zahra\piledechar.h
+
+1645222167 source:c:\users\zahra\documents\03- isi sorbonne université\c++\tp2-cpp-app-benslimane-zahra\tp2-cpp-app-benslimane-zahra\piledechar.cpp
+	<iostream>
+	"piledechar.h"
+
