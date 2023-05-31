@@ -1,0 +1,2 @@
+from Exponentielle import Exponentielle
+from SommeFonction import SommeFonction
